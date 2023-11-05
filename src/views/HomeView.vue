@@ -37,9 +37,9 @@ const toggleAudio = () =>  {
           <span>&</span>
           <br>
           <span> Айзат</span>
-        </div>
+          <p>20.01.2024</p>
 
-        <p>20.01.2024</p>
+        </div>
 
         <div class="audio">
           <div @click="toggleAudio" class="play">
@@ -78,7 +78,7 @@ const toggleAudio = () =>  {
     color: white;
 
     text-align: center;
-    span {
+    span, p {
       font-size: 3em;
       line-height: 3rem;
       text-align: center;

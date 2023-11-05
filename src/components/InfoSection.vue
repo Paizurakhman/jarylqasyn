@@ -5,7 +5,7 @@
       <div class="row">
         <div class="col-xl-4 col-12 py-4">
           <div class="title">Уақыты:</div>
-          <div class="subtitle">20 Қаңтар 20:00</div>
+          <div class="subtitle">20 Қаңтар 18:00</div>
         </div>
         <div class="col-xl-4 col-12 py-4">
           <div class="title">Мекен-жайымыз:</div>

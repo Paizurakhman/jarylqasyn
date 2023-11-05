@@ -7,15 +7,7 @@
       </div>
 
       <div class="invitation-text">
-        <h2>Сіз(дер)ді балаларымыз</h2>
-      </div>
-      <div class="name">
-        <h2>Жарылқасын мен Айзат тың</h2>
-      </div>
-      <div class="invitation-text">
-        <h2>
-          үйлену тойына арналған ақ дастарханымыздың қадірлі қонағы болуға шақырамыз!
-        </h2>
+        <h2>Сіз(дер)ді балаларымыз <span class="name">Жарылқасын мен Айзаттың</span> үйлену тойына арналған ақ дастарханымыздың қадірлі қонағы болуға шақырамыз!</h2>
       </div>
     </div>
 
@@ -41,24 +33,24 @@ export default {
     text-align: center;
     max-width: 800px;
     margin: 0 auto;
-    padding: 30px 0;
+    padding: 30px 0 0;
     .invitation-text {
       h2 {
-        font-size: 1.5em;
+        font-size: 1.375em;
       }
       + .invitation-text {
-        margin-top: 50px;
+        margin-top: 30px;
       }
     }
     .name {
-      margin: 20px 0;
-      font-family: AsylbekMo, Arial, sans-serif;
-      h2 {
-        font-size: 3em;
-      }
-      span {
-        font-size: .5em;
-      }
+      //font-family: AsylbekMo, Arial, sans-serif;
+      //h2 {
+      //  font-size: 3em;
+      //}
+      //span {
+      //  font-size: .5em;
+      //}
+      font-weight: 600;
     }
   }
 </style>

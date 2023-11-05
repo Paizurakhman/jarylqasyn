@@ -3,7 +3,7 @@
     <div class="container">
       <div class="calendar">
         <div class="calendar-header">
-          <span class="calendar-month">January </span>
+          <span class="calendar-month">Январь </span>
 <!--          <span class="calendar-year">2024</span>-->
         </div>
         <div class="calendar-body">
