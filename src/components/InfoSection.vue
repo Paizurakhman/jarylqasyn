@@ -4,21 +4,21 @@
       <h2>Өтетін уақыты мен мекен-жайымыз</h2>
       <div class="row">
         <div class="col-xl-4 col-12 py-4">
-          <div class="title">Уақыты:</div>
-          <div class="subtitle">20 Қаңтар 18:00</div>
+          <div class="subtitle">Уақыты:</div>
+          <div class="title">20 Қаңтар 18:00</div>
         </div>
         <div class="col-xl-4 col-12 py-4">
-          <div class="title">Мекен-жайымыз:</div>
-          <div class="subtitle">Ақтөбе қаласы, Проспект Кенес Нокина, 44д</div>
+          <div class="subtitle">Мекен-жайымыз:</div>
+          <div class="title">Ақтөбе қаласы, Проспект Кенес Нокина, 44д</div>
         </div>
         <div class="col-xl-4 col-12 py-4">
-          <div class="title">Мейрамхана:</div>
-          <div class="subtitle">White Hill Мейрамханасы
+          <div class="subtitle">Мейрамхана:</div>
+          <div class="title">White Hill
           </div>
         </div>
         <div class="col-xl-4 col-12 py-4">
-          <div class="title">Той иелері:</div>
-          <div class="subtitle">
+          <div class="subtitle">Той иелері:</div>
+          <div class="title">
             Махамбет & Базаргүл
           </div>
         </div>
@@ -27,7 +27,7 @@
 <!--      <div class="name">-->
 <!--        Махамбет & Базаргүл-->
 <!--      </div>-->
-      <div class="title">
+      <div class="subtitle mb-4">
         Тойымыздың қадірлі қонағы болыңыздар!
       </div>
     </div>
