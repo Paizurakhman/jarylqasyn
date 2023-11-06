@@ -16,12 +16,18 @@
           <div class="subtitle">White Hill Мейрамханасы
           </div>
         </div>
+        <div class="col-xl-4 col-12 py-4">
+          <div class="title">Той иелері:</div>
+          <div class="subtitle">
+            Махамбет & Базаргүл
+          </div>
+        </div>
       </div>
-      <h2>Той иелері:</h2>
-      <div class="name">
-        Махамбет & Базаргүл
-      </div>
-      <div class="invite-text">
+<!--      <div class="title">Той иелері:</div>-->
+<!--      <div class="name">-->
+<!--        Махамбет & Базаргүл-->
+<!--      </div>-->
+      <div class="title">
         Тойымыздың қадірлі қонағы болыңыздар!
       </div>
     </div>
@@ -63,15 +69,15 @@ export default {
     margin: 1.5rem 0 0;
   }
   .name {
-    font-family: AsylbekMo, Arial, sans-serif;
     font-weight: 600;
-    font-size: 3em;
+    font-size: 1.375em;
+    margin-bottom: 16px;
   }
-  .invite-text {
-    font-weight: 600;
-    font-style: italic;
-    font-size: 1.5em;
-    margin: 2rem 0;
-  }
+  //.invite-text {
+  //  font-weight: 600;
+  //  font-style: italic;
+  //  font-size: 1.5em;
+  //  margin: 2rem 0;
+  //}
 }
 </style>
