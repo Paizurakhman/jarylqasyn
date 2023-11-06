@@ -65,7 +65,7 @@ export default {
         return
       }
       isLoading.value = true
-      await fetch('https://sheetdb.io/api/v1/ckn3a1v071r22', {
+      await fetch('https://sheetdb.io/api/v1/g2p99nmrk27g0', {
         method: 'POST',
         mode: 'cors',
         cache: 'no-cache',
